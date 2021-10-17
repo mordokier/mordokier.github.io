@@ -2,7 +2,7 @@
 
 ## Razas principales
   - [Humano](Razas/Humano.md)
-  - [Elfo](Razas/Elfs.md)
+  - [Elfo](Razas/Elfo.md)
   - [Mediano](Razas/Mediano.md)
   - [Semiorco](Razas/Semiorco.md)
 
