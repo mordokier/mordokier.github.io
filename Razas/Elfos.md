@@ -32,6 +32,8 @@ Tambien se reproducen muy rápido, con el tiempo de embarazo más rápido que el
 
 Los elfos son una especie dividida. Tras la caida del gran Imperio Élfico, se han separado en diferentes culturas que no tienen casi nada que ver una con la otra:
 - [Elfos del Seldarine](Elfos del Seldarine.md)
+- [Altos Elfos](Altos elfos.md)
+- [Elfos del Bosque](Elfos del Bosque.md)
 
 
 
