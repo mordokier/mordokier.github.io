@@ -33,3 +33,4 @@ El Seldarine es el panteón de dioses principal de los Elfos del Seldarine, y af
 - Oberon: Dios de la naturaleza, comunidades, agricultura y druidas.
 
 Cada dios tiene su propio altar en una comunidad, y un elfo puede identificarse más por uno de los 3 dioses, al que le da prioridad en sus rezos y seguimiento.
+

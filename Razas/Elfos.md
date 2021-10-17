@@ -35,6 +35,13 @@ Los elfos son una especie dividida. Tras la caida del gran Imperio Élfico, se h
 - [Altos Elfos](Altos elfos.md)
 - [Elfos del Bosque](Elfos del Bosque.md)
 
+## Opiniones de otras razas
+
+- Humanos: Solo hizo falta un humano que les demostrase lo mucho que valen para que acabaran conquistando el mundo entero y llenarlo con sus familias. Son una especie fascinante, y peligrosa. Cada año tememos que se levante otro humano y les dé la esperanza para volver a cambiar el mundo, porque quizás esta vez el cambio será mucho peor.
+- Enanos: Su poco respeto por la naturaleza y deforestación masiva para la producción de carbón ha causado mucho daño para nuestras comunidades. Los enanos serían capaces de quemar el mundo entero con tal de seguir alimentando sus forjas y llenar los mercados con sus productos. Maleducados, ruidosos y sin respeto alguno por la gente que les rodea salvo sus propias familias. No tenemos ninguna razón para respetar a esa panda de bárbaros destructores.
+- Semiorcos: Años de marginación ha hecho que se vuelvan cabezotas y desconfiados, pero la amistad de un Semiorco es eterna y sincera. Una pena que hayan decidido juntarse con Humanos y mezclarse con su cultura en vez de forjar la suya propia, ya que eso es lo que quieren lograr los Humanos con el resto de razas.
+- Medianos: 
+
 
 
 
