@@ -1,8 +1,9 @@
 ---
 pinned: true
+tags: [elfos, raza]
 title: Elfos
 created: '2021-10-13T16:42:29.279Z'
-modified: '2021-10-17T10:58:39.038Z'
+modified: '2021-10-17T11:17:30.184Z'
 ---
 
 # Elfos
@@ -30,14 +31,8 @@ Una cosa curiosa, es que los elfos no duermen como el resto de especies. Entran 
 
 ## Subculturas
 
-Los elfos son una especie dividida. Tras la caida del gran Imperio Élfico, se han separado en diferentes culturas que no tienen casi nada que ver una con la otra: **Altos Elfos, Elfos del Seldarine, Elfos del Bosque, Elfos oscuros (Drow) y Elfos Lunares (Lunáticos)**
-
-# Elfos del Seldarine
-
-Son la subcultura más amplia y típica, y normalmente son los elfos que más encontrarás. Fueron la clave para la caida del Imperio Élfico, y los que más contacto con el resto de razas tiene.
-
-## Caos y 
-
+Los elfos son una especie dividida. Tras la caida del gran Imperio Élfico, se han separado en diferentes culturas que no tienen casi nada que ver una con la otra:
+- [Elfos del Seldarine](Elfos del Seldarine.md)
 
 
 
